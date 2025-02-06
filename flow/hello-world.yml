@@ -1,5 +1,5 @@
 id: hello-world
-namespace: prod
+namespace: tutorial
 description: Hello World
 
 inputs:
